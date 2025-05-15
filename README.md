@@ -1,8 +1,4 @@
-# React + Vite
+# Fitness App Built with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a fitness app, with real fitness exercises from _ExerciseDB_ to help train a specific area or part of the body,and also provides realated youtube videos on how that part of the body is trained
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
